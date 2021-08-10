@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/file.png</file>
+    <file>icons/document.png</file>
+    <file>icons/folder (1).png</file>
+    <file>icons/info.png</file>
+    <file>icons/folder (2).png</file>
+    <file>icons/Custom-Icon-Design-Flatastic-1-Information.ico</file>
+    <file>icons/Papirus-Team-Papirus-Apps-Github.ico</file>
+    <file>icons/Google-Noto-Emoji-Symbols-73028-warning.ico</file>
+  </qresource>
+</RCC>
