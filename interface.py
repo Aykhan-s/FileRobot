@@ -36,7 +36,7 @@ class Window(QMainWindow):
         self.directory = ''
         self.new_folder = ''
         
-        self.ui.actionGitHub.triggered.connect(lambda : webbrowser.open("https://github.com/Ayxan3-14/Projects"))
+        self.ui.actionGitHub.triggered.connect(lambda : webbrowser.open("https://github.com/Ayxan-z/FileRobot"))
         self.ui.select_radio_btn.clicked.connect(self.select_radio_btn_def)
         self.ui.search_btn.clicked.connect(self.file_sh)
         self.ui.open_btn.clicked.connect(self.file_open)
